@@ -1,0 +1,20 @@
+.qv-object-TrafficLights {
+	 font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 font-weight:bold;
+}
+
+.qv-object-TrafficLights-circle {
+        border: 1px solid;
+        padding: 10px 11px;
+		-moz-border-radius: 50%;
+		-webkit-border-radius: 50%;
+		border-radius: 50%;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.qv-object-TrafficLights-span {
+	float: left;
+	clear: left;
+	position: relative;
+}
