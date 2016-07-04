@@ -1,0 +1,9 @@
+{
+	"name": "TrafficLights.js",
+	"description": "Visualization to be used for displaying KPI in RAG style",
+	"icon": "gauge-chart",
+	"type": "visualization",
+	"version": "1.0.1",
+	"author": "Amarnath",
+	"keywords": "qlik-sense, traffic light"
+}
